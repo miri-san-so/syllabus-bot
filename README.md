@@ -1,7 +1,7 @@
 # Syllabus-bot :robot:
 Discord Bot Made to provide syllabus content on Command for our universities fourth semester
 
-# Commands :mail:
+# Commands :email:
 
 ## For Java
 - .java
